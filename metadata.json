@@ -1,0 +1,9 @@
+
+{
+  "name": "Astric Audio Pro 4.0",
+  "description": "Smart multilingual platform for TTS, video transcription, translation (Sudanese/English), and executive summarization powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
